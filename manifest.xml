@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin_manifest xmlns="http://www.elgg.org/plugin_manifest/1.8">
+	<name>XOXCO Tag Input</name>
+	<author>XOXCO, Steve Clay</author>
+	<version>1.8</version>
+	<description>Implements XOXCO Tag Inputs for Elgg tag entry</description>
+	<requires>
+		<type>elgg_version</type>
+		<version>2010111501</version>
+	</requires>
+</plugin_manifest>
