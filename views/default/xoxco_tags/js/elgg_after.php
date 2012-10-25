@@ -27,7 +27,7 @@ elgg.tags.init = function() {
         width: '98%',
         height: 'auto',
         placeholderColor:'#999999',
-        defaultText:'add a tag (separate with commas)',
+        defaultText:elgg.echo('xoxco_tags:add'),
         onAddTag: function (tag) {
             if (tag.indexOf(',') > 0) {
                 tidyTags({target: this, tags: tag});
