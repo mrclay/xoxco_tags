@@ -6,7 +6,7 @@
 	<version>1.8.9</version>
 	<description>Implements XOXCO Tag Inputs for Elgg tag entry</description>
 	<requires>
-		<type>elgg_version</type>
-		<version>2010111501</version>
+		<type>elgg_release</type>
+		<version>1.9</version>
 	</requires>
 </plugin_manifest>
