@@ -1,0 +1,16 @@
+{
+  "name": "mrclay/xoxco_tags",
+  "description": "Implements XOXCO Tag Inputs for Elgg tag entry",
+  "type": "elgg-plugin",
+  "keywords": [
+    "elgg",
+    "plugin"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Steve Clay",
+      "email": "steve@mrclay.org"
+    }
+  ]
+}
